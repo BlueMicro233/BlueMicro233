@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-我是一名普通的 16 岁高一学生，选科是地狱难度物化地组合.
+我是一名普通的 16 岁高一学生，物化地狗.
 
 I'm a 16-year-old Chinese High School student and I'm learning Physics, Chemistry and Geography in school.
 
