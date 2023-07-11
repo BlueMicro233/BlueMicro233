@@ -8,6 +8,4 @@ I'm a 16-year-old Chinese High School student and I'm learning Physics, Chemistr
 
 Besides, I'm learning Computer Graphics - Rendering myself, and I'm a honorary researcher :)  You can find my lectures about CG in space.bilibili.com/370118971.
 
-只做自己喜欢的事，同时是一名游戏玩家：
-
 https://steamcommunity.com/id/b1uemicr0/
