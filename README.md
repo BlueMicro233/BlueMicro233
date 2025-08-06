@@ -1,3 +1,7 @@
 ### Hi there 👋
 
-Currently studying Computer Graphics, Machine Learning and software engineering techniques.
+academic learning:
+Computer Graphics, Machine Learning. 
+
+industrial learning:
+Source Engine, Unreal Engine 5
