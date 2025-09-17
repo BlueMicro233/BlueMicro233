@@ -1,7 +1,3 @@
 ### Hi there 👋
 
-academic learning:
-Computer Graphics, Machine Learning. 
-
-industrial learning:
-Source Engine, Unreal Engine 5
+I'm interested in Computer Graphics, Machine Learning and Source Engine.
