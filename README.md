@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueMicro233&layout=compact)
+![Top Langs](https://github-readme-stats-psi-dun-41.vercel.app/api/top-langs/?username=BlueMicro233&layout=compact)
 
 ### Hi there 👋
 
