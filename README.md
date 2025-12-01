@@ -6,7 +6,7 @@ Also doing some investigation on Modern Philosophy. From René Descartes to Jacq
 
 ### Future Work
 
-Perf Evaluation and Optimization, Photorealisti Rendering, Source Engine & Unity Engine Development.
+Perf Evaluation and Optimization, Photorealistic Rendering, Source Engine & Unity Engine Development.
 
 ![Top Langs](https://github-readme-stats-psi-dun-41.vercel.app/api/top-langs/?username=BlueMicro233&layout=compact)
 
