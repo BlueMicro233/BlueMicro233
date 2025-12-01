@@ -1,6 +1,6 @@
 ![Top Langs](https://github-readme-stats-psi-dun-41.vercel.app/api/top-langs/?username=BlueMicro233&layout=compact)
 
-[![Anurag's GitHub stats](https://github-readme-stats-psi-dun-41.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-psi-dun-41.vercel.app/api?username=BlueMicro233)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 
