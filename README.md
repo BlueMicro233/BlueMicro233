@@ -8,4 +8,4 @@ Also doing some investigations on Continental philosophy and Psychoanalysis.
 
 ### Future Work
 
-Perf Evaluation and Optimization, Photorealistic Rendering, Source Engine & Unity Engine Development.
+Retro Console Architecture & Programming, Perf Evaluation and Optimization, Photorealistic Rendering, Source Engine & Unity Engine Development.
