@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm interested in PC Hardware, Computer Graphics and Source Engine.
+I'm interested in PC Hardware, Computer Graphics and Source Engine. First year undergraduate student.
 
 Also doing some investigations on Continental philosophy and Psychoanalysis.
 
