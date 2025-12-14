@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm interested in PC Hardware, Computer Graphics and Source Engine. First-year undergrad.
 
@@ -15,8 +15,12 @@ Also doing some investigations on Continental philosophy and Psychoanalysis.
 
 ### I want to
 
-- relax.
-- make more friends.
-- live better.
-- research more.
-- core more.
+relax.
+
+make more friends.
+
+live better.
+
+research more.
+
+core more.
