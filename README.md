@@ -8,9 +8,10 @@ Also doing some investigations on Continental philosophy and Psychoanalysis.
 
 I'm tired and wanting more intimate.
 
-### Working On
+### Now
 
-- Source Engine Light Transport Algorithm Research
-- 3D Rendering Dev
+- Photorealistic Rendering Research
+- 3D Rendering Engine Dev
 - PC Performance Evaluation
 - PC Hardware (Retro & Modern) Architecture
+- Philosophy on Otaku Culture
