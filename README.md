@@ -10,8 +10,8 @@ I'm tired and wanting more intimate.
 
 ### Now
 
-- Photorealistic Rendering Research
-- 3D Rendering Engine Dev
-- PC Performance Evaluation
-- PC Hardware (Retro & Modern) Architecture
-- Philosophy on Otaku Culture
+- **Photorealistic Rendering** exploration
+- **3D Rendering Engine** dev
+- **PC Performance** evaluation
+- PC (Retro & Modern) **Hardware Architecture**
+- **Philosophy** on Otaku Culture
