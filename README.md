@@ -4,7 +4,7 @@ I'm interested in PC Hardware, Computer Graphics and Source Engine. First-year u
 
 Also doing some investigations on Continental philosophy and Psychoanalysis.
 
-![Top Langs](https://github-readme-stats-psi-dun-41.vercel.app/api/top-langs/?username=BlueMicro233&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats-psi-dun-41.vercel.app/api/top-langs/?username=BlueMicro233&layout=compact&langs_count=8&hide=html)
 
 I'm tired and wanting more intimate.
 
