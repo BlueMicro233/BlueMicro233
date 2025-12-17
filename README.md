@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm interested in PC Hardware, Computer Graphics and Half-Life game. First-year undergrad.
+I'm interested in PC Hardware, Computer Graphics and Half-Life. First-year undergrad.
 
 Also doing some investigations on Continental philosophy and Psychoanalysis.
 
