@@ -1,4 +1,9 @@
 ## Hi there 👋
 
-A random person who is interested in **PC Hardware, Computer Graphics and Half-Life game**. 
+A random person who is mainly working on CS study, content creating and game dev.
 
+Interests:
+- Computer Graphics
+- Computer Architecture
+- PC Hardware
+- Source Engine / Half-Life game
