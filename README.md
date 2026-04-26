@@ -7,6 +7,7 @@ Interests:
 - Computer Architecture
 - PC Hardware
 - Source Engine / Half-Life game
+- Mathematics & Physics
 - Philosophy
 
 I'm learning some *languages*:
