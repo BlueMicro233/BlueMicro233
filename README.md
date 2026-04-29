@@ -6,7 +6,7 @@ Interests:
 - Computer Graphics
 - Computer Architecture
 - PC Hardware
-- Source Engine / Half-Life game
+- Source Engine / Half-Life game / s&box game
 - Mathematics & Physics
 - Philosophy
 
@@ -14,4 +14,5 @@ I'm learning some *languages*:
 - Assembly
 - C
 - C++
+- C#
 - English (for Prompt Engineering XDDD)
