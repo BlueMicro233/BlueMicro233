@@ -15,4 +15,5 @@ I'm learning some *languages*:
 - C
 - C++
 - C#
+- Lisp / Scheme
 - English (for Prompt Engineering XDDD)
