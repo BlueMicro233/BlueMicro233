@@ -2,6 +2,10 @@
 
 A random person who is mainly working on content creating, rendering research and game dev.
 
+I develop syllabus and textbook for undergraduate Computer Graphics course in Chengdu University of Information Technology, officially.
+
+In campus gamedev club I created [TDS Graphics](https://tds-graphics.github.io/TDS-Graphics-Website/) for enthusiasts.
+
 Interests:
 - Computer Graphics
 - Computer Architecture
