@@ -13,6 +13,6 @@ Interests:
 - Philosophy & Mathematics & Physics
 
 still learns some *languages*:
-- English, Chinese
+- Chinese, English, Japanese
 - C / C++ / C# / Java
 - Lisp / Scheme
