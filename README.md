@@ -2,17 +2,16 @@
 
 A random person who is mainly working on **content creating, game dev, computer graphics/architecture/systems exploration**.
 
-I develop syllabus and textbook for undergraduate and graduate Computer Graphics course in Chengdu University of Information Technology, **officially**.
+I'm developing syllabus, textbook and labs for undergraduate and graduate Computer Graphics course in Chengdu University of Information Technology, **officially**.
 
-In campus gamedev club I created **[TDS Graphics](https://tds-graphics.github.io/TDS-Graphics-Website/)** for enthusiasts.
+In campus gamedev club I created **[TDS Graphics](https://tds-graphics.github.io/TDS-Graphics-Website/)** for enthusiasts, also developing some introductory and advanced contents.
 
 Interests:
 - Computer Graphics, Architecture, Systems
 - PC Hardware, Game Benchmark
-- Half-Life game, Z.A.T.O. visual novel
-- Philosophy & Mathematics & Physics
+- Half-Life, Z.A.T.O.
 
 still learns some *languages*:
 - Chinese, English, Japanese
-- C / C++ / C# / Java
+- C / C++ / C#
 - Lisp / Scheme
