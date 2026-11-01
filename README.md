@@ -7,7 +7,7 @@ I'm developing syllabus, textbook and labs for undergraduate and graduate Comput
 In campus gamedev club I created **[TDS Graphics](https://tds-graphics.github.io/TDS-Graphics-Website/)** for enthusiasts, also developing some introductory and advanced contents.
 
 Interests:
-- Computer Graphics, Architecture, Systems
+- Computer Graphics, Architecture, Systems, Algorithms
 - PC Hardware, Game Benchmark
 - Half-Life, Z.A.T.O.
 
